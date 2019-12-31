@@ -1,1 +1,1 @@
-# SalesAppAndroid
+# AmazonMiniApp
